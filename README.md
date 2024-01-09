@@ -10,7 +10,7 @@
    🖥   Adobe Xd | Illustrator | figma 
 
    
- <a href="https://www.facebook.com/profile.php?id=100008201160968" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+ <a href="https://www.facebook.com/profile.php?id=100008201160968" target="_blank"></a>
                
 
 
