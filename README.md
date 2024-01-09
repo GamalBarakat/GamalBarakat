@@ -1,16 +1,22 @@
-### Hi there 👋
+ # Hello, I'm Gamal 👋
+
+/*![Profile Picture](Profile Picture URL)*/
 
 
-**GamalBarakat/GamalBarakat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+- Flutter
+- Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+
+
+
+
+## Contact Me
+
+You can reach out to me through the following channels:
+
+- Email: [Your Email Address]
+- LinkedIn: [Your LinkedIn Profile URL]
+- Twitter: [Your Twitter Profile URL]
