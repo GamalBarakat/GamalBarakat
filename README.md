@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,
   </h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Gamal+Barakat" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Gamal+Barakat" alt="Typing SVG" /></a>
 
 <h3 align="center">software engineer Mobile application using Flutter</h3>
 
