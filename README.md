@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gamal+Barakat" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=22&pause=1000&color=F7F7F7&random=false&width=435&lines=software+engineer+Mobile+application+using+Flutter" alt="Typing SVG" /></a>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=1000&color=F7F7F7&random=false&width=435&lines=I+am+a+student+at+Fayoum+University%2C+studying+Computer+Science+and+Artificial+Intelligence" alt="Typing SVG" /></a>
 
 
