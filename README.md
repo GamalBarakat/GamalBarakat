@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gamal Barakat</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Gamal+Barakat" alt="Typing SVG" /></a>
 <h3 align="center">software engineer Mobile application using Flutter</h3>
 
 - تموينات [تموينات](https://apps.apple.com/kw/app/%D8%AA%D9%85%D9%88%D9%8A%D9%86%D8%A7%D8%AA/id6479165814)
