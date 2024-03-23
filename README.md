@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gamal+Barakat" alt="Typing SVG" /></a>
 <h2>Flutter developer</h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=1000&color=F7F7F7&random=false&width=435&lines=I+am+a+student+at+Fayoum+University%2C+studying+Computer+Science+and+Artificial+Intelligence" alt="Typing SVG" /></a>
+<h2>I am a student at Fayoum University, studying Computer Science and Artificial Intelligence</h2>
 
 <h2>Project</h2>
 
@@ -8,7 +8,7 @@
 
 - تموينات [تموينات](https://apps.apple.com/kw/app/%D8%AA%D9%85%D9%88%D9%8A%D9%86%D8%A7%D8%AA/id6479165814)
 
-- 🌱 I’m currently learning **flutter**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/GamalBarakat](https://github.com/GamalBarakat)
 
